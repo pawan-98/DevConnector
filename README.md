@@ -18,3 +18,5 @@ Display a dashboard
 
 Add/Delete/Update/Display experience,education,post,comment,profile,etc...
 
+Profile image is displayed using gravatar.
+
